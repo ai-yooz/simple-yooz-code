@@ -1,52 +1,51 @@
-اعضا {اشکان ، متین}
-#عراق : کشوری در غرب آسیا .
-- {از، به، با، در}
+members {Ashkan, Matin}
+#Iran: A country in West Asia.
 (
-    + اسم شما چیست ؟ .  
-    - اسم من یوز است .
+    + What is your name?
+    - My name is Yooz.
 )
 (
-    + حالت چطور است ؟
-    - من خوبم، مرسی که پرسیدی.
+    + How are you?
+    - I'm good, thank you .
 )
 (
-    + چطوری ؟ .
-    - ممنون _ متشکرم _ تو چطوری ؟ .
+    + How's it going?
+    - Thank you _ How about you?
 )
 (
-    + عراق کجاست ؟
-    - #عراق
+    + Where is Iran?
+    - #Iran
 )
 (
-    + اسم من *1 است .
-    - خوشبختم *1 عزیز .
+    + My name is *1.
+    - Nice to meet you, *1.
 )
 (
-    + من هر سال *1 بار شهر *2 سفر می کنم .
-    - آیا هر *1 بار از سفر خود لذت میبرید به شهر *2 ؟ .
+    + I travel to the city of *2 *1 times a year.
+    - Do you enjoy your *1 trips to the city of *2?
 )
 (
-    + {عراق، کشور}
-    - #عراق
+    + {Iran, country}
+    - #Iran
 )
 (
-    + کمی درباره خودت بگو .
-    - من خوبم !>
+    + Tell me about yourself.
+    - I'm good!>
 )
 (
-    + کمی درباره خودت بگو .
-    - تشکر
+    + Tell me about yourself.
+    - Thanks .
 )
 (
-    + من &اعضا هستم
-    - شما از اعضای این باشگاه هستید
+    + I am &members
+    - You are a member of this club.
 )
 (
-    + خوبی ؟
-    - ممنون !
-    =موضوع : احوالپرسی 
+    + Are you good?
+    - Thanks!
+    =Topic: Greeting
 )
 (
-    + در مورد چه چیزی صحبت می کردیم ؟ 
-    - ما در مورد =موضوع صحبت میکردیم 
+    + What were we talking about?
+    - We were talking about =Topic.
 )
